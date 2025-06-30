@@ -1,7 +1,7 @@
 import React from 'react'
 
 function Footer() {
-  return (
+	return (
 		<div>
 			<footer className="footer sm:footer-horizontal bg-neutral text-neutral-content p-10  shadow-lg">
 				<nav className="flex flex-col space-y-4 sm:space-y-6 sm:mr-12">
@@ -172,7 +172,7 @@ function Footer() {
 				</nav>
 			</footer>
 		</div>
-  )
+	)
 }
 
 export default Footer
