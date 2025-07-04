@@ -3,36 +3,8 @@ import React from 'react'
 function Footer() {
 	return (
 		<div>
-			<footer className="footer sm:footer-horizontal bg-neutral text-neutral-content p-10  shadow-lg">
-				<nav className="flex flex-col space-y-4 sm:space-y-6 sm:mr-12">
-					<h6 className="footer-title text-lg font-semibold uppercase tracking-wide mb-2 text-orange-400">
-						Services
-					</h6>
-					<a
-						href="#"
-						className="link link-hover text-gray-300 hover:text-orange-400 transition-colors duration-300"
-					>
-						Branding
-					</a>
-					<a
-						href="#"
-						className="link link-hover text-gray-300 hover:text-orange-400 transition-colors duration-300"
-					>
-						Design
-					</a>
-					<a
-						href="#"
-						className="link link-hover text-gray-300 hover:text-orange-400 transition-colors duration-300"
-					>
-						Marketing
-					</a>
-					<a
-						href="#"
-						className="link link-hover text-gray-300 hover:text-orange-400 transition-colors duration-300"
-					>
-						Advertisement
-					</a>
-				</nav>
+			<footer className="footer flex justify-between flex-wrap sm:footer-horizontal bg-neutral text-neutral-content p-10  shadow-lg">
+				
 
 				<nav className="flex flex-col space-y-4 sm:space-y-6 sm:mr-12">
 					<h6 className="footer-title text-lg font-semibold uppercase tracking-wide mb-2 text-orange-400">
@@ -51,10 +23,10 @@ function Footer() {
 						Contact
 					</a>
 					<a
-						href="#"
+						href="https://github.com/stropurbo"
 						className="link link-hover text-gray-300 hover:text-orange-400 transition-colors duration-300"
 					>
-						Jobs
+						Github
 					</a>
 				</nav>
 
@@ -68,7 +40,7 @@ function Footer() {
 							target="_blank"
 							rel="noopener noreferrer"
 							aria-label="Facebook"
-							className="text-gray-300 hover:text-orange-400 transition-colors duration-300"
+							className="text-gray-300 hover:text-blue-500 transition-colors duration-300"
 						>
 							<svg
 								xmlns="http://www.w3.org/2000/svg"
@@ -84,7 +56,7 @@ function Footer() {
 							target="_blank"
 							rel="noopener noreferrer"
 							aria-label="Twitter"
-							className="text-gray-300 hover:text-orange-400 transition-colors duration-300"
+							className="text-gray-300 hover:text-blue-400 transition-colors duration-300"
 						>
 							<svg
 								xmlns="http://www.w3.org/2000/svg"
@@ -100,7 +72,7 @@ function Footer() {
 							target="_blank"
 							rel="noopener noreferrer"
 							aria-label="LinkedIn"
-							className="text-gray-300 hover:text-orange-400 transition-colors duration-300"
+							className="text-gray-300 hover:text-blue-500 transition-colors duration-300"
 						>
 							<svg
 								xmlns="http://www.w3.org/2000/svg"
@@ -116,7 +88,7 @@ function Footer() {
 							target="_blank"
 							rel="noopener noreferrer"
 							aria-label="Instagram"
-							className="text-gray-300 hover:text-orange-400 transition-colors duration-300"
+							className="text-gray-300 hover:text-red-500 transition-colors duration-300"
 						>
 							<svg
 								xmlns="http://www.w3.org/2000/svg"

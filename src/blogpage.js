@@ -16,118 +16,80 @@ Why it’s great:
 VS Code is a lightweight but powerful source code editor by Microsoft. With built-in Git support, an enormous extension library, and IntelliSense auto-complete, it’s a one-stop coding environment for most developers.
 
 Top features:
-
 IntelliSense for smart code suggestions
-
 Built-in terminal
-
 Live Share for real-time collaboration
-
 
 2. Tailwind CSS
 Why it’s great:
 Tailwind is a utility-first CSS framework that helps you build beautiful, responsive interfaces without ever leaving your HTML.
 
 Top features:
-
 Rapid UI design using utility classes
-
 Highly customizable via config
-
 Tree-shaking reduces final CSS bundle size
-
-
 
 3. React Developer Tools
 Why it’s great:
 If you're working with React, this browser extension helps you inspect and debug React component hierarchies directly in Chrome or Firefox DevTools.
 
 Top features:
-
 Real-time inspection of props/state
-
 Performance monitoring
-
 Time-travel debugging (when combined with Redux DevTools)
-
 
 4. GitHub Copilot
 Why it’s great:
 Copilot is an AI-powered code assistant that helps you write code faster and smarter using suggestions based on your code and comments.
 
 Top features:
-
 Autocomplete entire functions
-
 Write boilerplate code with minimal effort
-
 Learns from your code context
-
 
 5. Figma
 Why it’s great:
 A collaborative design tool used by designers and developers alike to create UI/UX mockups. Its live collaboration feature is especially useful for remote teams.
 
 Top features:
-
 Real-time team collaboration
-
 Developer handoff (CSS export)
-
 Plugins for accessibility, icons, and more
-
-
 
 6. Postman
 Why it’s great:
 Perfect for testing APIs, Postman lets you send HTTP requests, view responses, and organize your API development.
 
 Top features:
-
 Test and document APIs easily
-
 Automate workflows with collections
-
 Mock server support
-
-
 
 7. Vite
 Why it’s great:
 A blazing-fast frontend build tool that significantly improves local development performance, especially for React, Vue, and Svelte projects.
 
 Top features:
-
 Instant hot module replacement (HMR)
-
 Lightning-fast server start
-
 ES modules support
-
 
 8. Netlify / Vercel
 Why it’s great:
 These are modern platforms for deploying static websites and JAMstack apps. With features like one-click deploy from GitHub and instant rollbacks, you can push to production in seconds.
 
 Top features:
-
 Continuous deployment
-
 Custom domains & SSL
-
 Serverless functions
-
 
 9. Chrome DevTools
 Why it’s great:
 The built-in developer tools in Chrome are essential for debugging frontend issues, monitoring performance, and inspecting the DOM and network activity.
 
 Top features:
-
 Inspect element, console, and network tabs
-
 Lighthouse performance audit
-
 Responsive design mode
 
 10. ESLint + Prettier
@@ -135,11 +97,8 @@ Why it’s great:
 Maintain code consistency and avoid bugs with automated linting and formatting tools. They ensure your code follows best practices and is always clean.
 
 Top features:
-
 Catch bugs before they happen
-
 Enforce consistent formatting
-
 Integrate easily with VS Code`,
 	},
 	{
@@ -164,48 +123,33 @@ Now, instead of sending static charts, I build interactive dashboards, live pred
 Data scientists often stop at the prototype phase: a model that works locally or in a notebook. But deploying that model into a real product requires web integration.
 
 By learning web development, I could:
-
 Build the frontend to visualize results
-
 Create forms for user inputs
-
 Handle API calls to run models in real-time
-
 This skill turned my proof-of-concept projects into full-scale tools people could actually use.
 
 🧠 3. Gaining a Holistic View of Tech Projects
 Before, I was just one piece of the puzzle. I’d build a model and hand it off to engineers. But learning web development helped me understand the full stack—from frontend to backend. Now I:
 
 Communicate better with developers
-
 Design better systems
-
 Plan more realistic project timelines
-
 Understanding how the web works helped me become a better collaborator and leader on data-driven projects.
 
 📈 4. Showcasing My Portfolio
 Let’s face it—PDF resumes and GitHub repos don’t always leave a lasting impression.
 
 Learning web development allowed me to build my own portfolio website where I could showcase:
-
 Interactive visualizations
-
 Real-time demos of models
-
 Project write-ups with a polished look
-
 This made job applications and freelance gigs much more impactful. My skills now had a home—and it looked professional.
 
 💼 5. Increasing My Earning Potential
 Web development is a high-demand skill. Combining it with data science opened up new doors:
-
 Freelance clients looking for end-to-end solutions
-
 Startups needing someone who could “do it all”
-
 Teams who preferred one person managing both data and delivery
-
 This hybrid skillset helped me stand out in a crowded job market.`,
 	},
 	{
@@ -240,15 +184,10 @@ It works smoothly with popular Python frameworks like FastAPI, Flask, and Starle
 
 🎯 When to Use FastHTML
 FastHTML is ideal for:
-
 🔧 Internal tools and dashboards
-
 🧪 Prototyping and MVPs
-
 🖥 Admin panels or backend-heavy interfaces
-
 📚 Educational tools or learning environments
-
 🤖 Developers who prefer minimal dependencies and full control`,
 	},
 ]
