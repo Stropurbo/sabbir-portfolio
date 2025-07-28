@@ -37,8 +37,7 @@ function Blog() {
 					) : (
 						<br key={`br-${i}`} />
 					),					
-				)}
-				{/* <ReactMarkdown>{blog.fullDesc}</ReactMarkdown> */}
+				)}				
 			</article>
 
 			{/* Optional footer */}

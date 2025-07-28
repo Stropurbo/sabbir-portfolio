@@ -33,7 +33,7 @@ function Banner() {
 						PostgreSQL.
 					</p>
 					<a
-						href="https://drive.google.com/file/d/1W6qRIfy7m1Xf664Ahf5TTvHS6SeBGqO-/view"
+						href="https://drive.google.com/file/d/1q8qG7cMMslQoxB_XIqYwzI7fI9P2wwVR/view?usp=drive_link"
 						target="_blank"
 						className="btn btn-primary"
 					>
